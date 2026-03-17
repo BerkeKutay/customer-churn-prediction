@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Internal files
+CHURN_PROJECT_BRIEF.md
+Customer_Churn_Prediction (1).ipynb
