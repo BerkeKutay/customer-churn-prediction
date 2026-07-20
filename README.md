@@ -67,7 +67,7 @@ customer-churn-prediction/
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/customer-churn-prediction.git
+git clone https://github.com/BerkeKutay/customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
 jupyter notebook Customer_Churn_Prediction.ipynb
